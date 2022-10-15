@@ -6,3 +6,9 @@ I'm choosing verilog for this training program....
 
 
 
+# WEEK 2
+
+Bold - Highights
+
+
+
