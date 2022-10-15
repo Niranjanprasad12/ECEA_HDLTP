@@ -7,8 +7,8 @@ I'm choosing verilog for this training program....
 
 
 # WEEK 2
-
-**Highights**
+Used structural design for the 2 bit adder
+will update the report soon :(
 
 
 
