@@ -39,8 +39,11 @@ The right hand side of the sequential statements are evaluated first and all of 
 **Three types of modeling (Actually four)**
 
 *Data flow modeling*
+
 *Behavioral modeling*
+
 *Structural modeling*
+
 *switch level modeling*
 
 ** Data flow modeling **
