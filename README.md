@@ -63,13 +63,12 @@ It is used when we know the exact structure the circuit which has to be designed
 
 # WEEK 5![JKFF](https://user-images.githubusercontent.com/81733224/200177547-2751f922-00f8-4ccc-beb3-50c3bb1f10eb.jpeg)
 
-![SISO](https://user-images.g![counter](https://user-images.githubusercontent.com/81733224/200177561-5014e5d5-4184-4641-b5ec-ef8759a92a01.jpeg)
-ithubusercontent.com/81733224/200177553-12ac8946-3bf1-4710-8fe6-aef53534e4ac.jpeg)
-
 ![DFF](https://user-images.githubusercontent.com/81733224/200177565-f6338720-a64d-43ea-91a8-51c737df66be.jpeg)
+![counter](https://user-images.githubusercontent.com/81733224/200177624-9fcc765e-8143-4668-bd32-463379a933e0.jpeg)
 
 
 
 
+![SISO](https://user-images.githubusercontent.com/81733224/200177618-8c9a1fd6-ba59-4878-afef-67f63589b1e2.jpeg)
 
 
