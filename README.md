@@ -61,6 +61,14 @@ Used to model the behaviour of complex circuit in a simple way. Used when we kno
 It is used when we know the exact structure the circuit which has to be designed. We can use module hierarchy from top to bottom level. Bottom level conists of gates.
 
 
+# WEEK 5![JKFF](https://user-images.githubusercontent.com/81733224/200177547-2751f922-00f8-4ccc-beb3-50c3bb1f10eb.jpeg)
+
+![SISO](https://user-images.g![counter](https://user-images.githubusercontent.com/81733224/200177561-5014e5d5-4184-4641-b5ec-ef8759a92a01.jpeg)
+ithubusercontent.com/81733224/200177553-12ac8946-3bf1-4710-8fe6-aef53534e4ac.jpeg)
+
+![DFF](https://user-images.githubusercontent.com/81733224/200177565-f6338720-a64d-43ea-91a8-51c737df66be.jpeg)
+
+
 
 
 
