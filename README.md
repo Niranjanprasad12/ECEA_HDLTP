@@ -61,14 +61,20 @@ Used to model the behaviour of complex circuit in a simple way. Used when we kno
 It is used when we know the exact structure the circuit which has to be designed. We can use module hierarchy from top to bottom level. Bottom level conists of gates.
 
 
-# WEEK 5![JKFF](https://user-images.githubusercontent.com/81733224/200177547-2751f922-00f8-4ccc-beb3-50c3bb1f10eb.jpeg)
+# WEEK 5
 
+JK FLIP FLOP
+![JKFF](https://user-images.githubusercontent.com/81733224/200177547-2751f922-00f8-4ccc-beb3-50c3bb1f10eb.jpeg)
+
+D FLIP FLOP
 ![DFF](https://user-images.githubusercontent.com/81733224/200177565-f6338720-a64d-43ea-91a8-51c737df66be.jpeg)
+
+COUNTER
 ![counter](https://user-images.githubusercontent.com/81733224/200177624-9fcc765e-8143-4668-bd32-463379a933e0.jpeg)
 
 
 
-
+SERIAL IN SERIAL OUT SHIFT REGISTER
 ![SISO](https://user-images.githubusercontent.com/81733224/200177618-8c9a1fd6-ba59-4878-afef-67f63589b1e2.jpeg)
 
 
